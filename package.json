@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "github:pravdomil/sketch.d.ts",
+      "/Volumes/Data/Working/GITs/HMI/SupportTools/21CY_Tools"
+    ]
+  ],
+  "_development": true,
+  "_from": "github:pravdomil/sketch.d.ts",
+  "_id": "sketch.d.ts@github:pravdomil/sketch.d.ts#6fdaf86d0dea3ed0ff5d79de79d43b4f558df0bb",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/sketch.d.ts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:pravdomil/sketch.d.ts",
+    "rawSpec": "github:pravdomil/sketch.d.ts",
+    "saveSpec": "github:pravdomil/sketch.d.ts",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "github:pravdomil/sketch.d.ts#6fdaf86d0dea3ed0ff5d79de79d43b4f558df0bb",
+  "_spec": "github:pravdomil/sketch.d.ts",
+  "_where": "/Volumes/Data/Working/GITs/HMI/SupportTools/21CY_Tools",
+  "author": {
+    "name": "pravdomil.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pravdomil/Sketch.d.ts/issues"
+  },
+  "description": "<div align=\"center\">",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  },
+  "homepage": "https://github.com/pravdomil/sketch.d.ts#readme",
+  "name": "sketch.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravdomil/sketch.d.ts.git"
+  },
+  "scripts": {
+    "test": "tsc -p . --pretty --noEmit && echo 'Test passed.'"
+  },
+  "version": "0.0.1"
+}
